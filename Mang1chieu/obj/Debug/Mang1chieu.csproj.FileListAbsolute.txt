@@ -1,0 +1,8 @@
+D:\C#\Mang1chieu\bin\Debug\Mang1chieu.exe.config
+D:\C#\Mang1chieu\bin\Debug\Mang1chieu.exe
+D:\C#\Mang1chieu\bin\Debug\Mang1chieu.pdb
+D:\C#\Mang1chieu\obj\Debug\Mang1chieu.csproj.AssemblyReference.cache
+D:\C#\Mang1chieu\obj\Debug\Mang1chieu.csproj.SuggestedBindingRedirects.cache
+D:\C#\Mang1chieu\obj\Debug\Mang1chieu.csproj.CoreCompileInputs.cache
+D:\C#\Mang1chieu\obj\Debug\Mang1chieu.exe
+D:\C#\Mang1chieu\obj\Debug\Mang1chieu.pdb

@@ -1,0 +1,8 @@
+D:\C#\CautrucHam\bin\Debug\CautrucHam.exe.config
+D:\C#\CautrucHam\bin\Debug\CautrucHam.exe
+D:\C#\CautrucHam\bin\Debug\CautrucHam.pdb
+D:\C#\CautrucHam\obj\Debug\CautrucHam.csproj.AssemblyReference.cache
+D:\C#\CautrucHam\obj\Debug\CautrucHam.csproj.SuggestedBindingRedirects.cache
+D:\C#\CautrucHam\obj\Debug\CautrucHam.csproj.CoreCompileInputs.cache
+D:\C#\CautrucHam\obj\Debug\CautrucHam.exe
+D:\C#\CautrucHam\obj\Debug\CautrucHam.pdb

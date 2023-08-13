@@ -1,0 +1,8 @@
+D:\C#\Vonglap_for\bin\Debug\Vonglap_for.exe.config
+D:\C#\Vonglap_for\bin\Debug\Vonglap_for.exe
+D:\C#\Vonglap_for\bin\Debug\Vonglap_for.pdb
+D:\C#\Vonglap_for\obj\Debug\Vonglap_for.csproj.AssemblyReference.cache
+D:\C#\Vonglap_for\obj\Debug\Vonglap_for.csproj.SuggestedBindingRedirects.cache
+D:\C#\Vonglap_for\obj\Debug\Vonglap_for.csproj.CoreCompileInputs.cache
+D:\C#\Vonglap_for\obj\Debug\Vonglap_for.exe
+D:\C#\Vonglap_for\obj\Debug\Vonglap_for.pdb

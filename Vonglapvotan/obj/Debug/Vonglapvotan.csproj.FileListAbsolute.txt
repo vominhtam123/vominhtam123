@@ -1,0 +1,8 @@
+D:\C#\Vonglapvotan\bin\Debug\Vonglapvotan.exe.config
+D:\C#\Vonglapvotan\bin\Debug\Vonglapvotan.exe
+D:\C#\Vonglapvotan\bin\Debug\Vonglapvotan.pdb
+D:\C#\Vonglapvotan\obj\Debug\Vonglapvotan.csproj.AssemblyReference.cache
+D:\C#\Vonglapvotan\obj\Debug\Vonglapvotan.csproj.SuggestedBindingRedirects.cache
+D:\C#\Vonglapvotan\obj\Debug\Vonglapvotan.csproj.CoreCompileInputs.cache
+D:\C#\Vonglapvotan\obj\Debug\Vonglapvotan.exe
+D:\C#\Vonglapvotan\obj\Debug\Vonglapvotan.pdb

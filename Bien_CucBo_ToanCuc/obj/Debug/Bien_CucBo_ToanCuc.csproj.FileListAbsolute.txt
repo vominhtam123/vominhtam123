@@ -1,0 +1,8 @@
+D:\C#\Bien_CucBo_ToanCuc\bin\Debug\Bien_CucBo_ToanCuc.exe.config
+D:\C#\Bien_CucBo_ToanCuc\bin\Debug\Bien_CucBo_ToanCuc.exe
+D:\C#\Bien_CucBo_ToanCuc\bin\Debug\Bien_CucBo_ToanCuc.pdb
+D:\C#\Bien_CucBo_ToanCuc\obj\Debug\Bien_CucBo_ToanCuc.csproj.AssemblyReference.cache
+D:\C#\Bien_CucBo_ToanCuc\obj\Debug\Bien_CucBo_ToanCuc.csproj.SuggestedBindingRedirects.cache
+D:\C#\Bien_CucBo_ToanCuc\obj\Debug\Bien_CucBo_ToanCuc.csproj.CoreCompileInputs.cache
+D:\C#\Bien_CucBo_ToanCuc\obj\Debug\Bien_CucBo_ToanCuc.exe
+D:\C#\Bien_CucBo_ToanCuc\obj\Debug\Bien_CucBo_ToanCuc.pdb

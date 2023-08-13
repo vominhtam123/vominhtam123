@@ -1,0 +1,8 @@
+D:\C#\KDLobjectandvar\bin\Debug\KDLobjectandvar.exe.config
+D:\C#\KDLobjectandvar\bin\Debug\KDLobjectandvar.exe
+D:\C#\KDLobjectandvar\bin\Debug\KDLobjectandvar.pdb
+D:\C#\KDLobjectandvar\obj\Debug\KDLobjectandvar.csproj.AssemblyReference.cache
+D:\C#\KDLobjectandvar\obj\Debug\KDLobjectandvar.csproj.SuggestedBindingRedirects.cache
+D:\C#\KDLobjectandvar\obj\Debug\KDLobjectandvar.csproj.CoreCompileInputs.cache
+D:\C#\KDLobjectandvar\obj\Debug\KDLobjectandvar.exe
+D:\C#\KDLobjectandvar\obj\Debug\KDLobjectandvar.pdb

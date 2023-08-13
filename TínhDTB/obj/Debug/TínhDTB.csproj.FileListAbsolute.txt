@@ -1,0 +1,8 @@
+D:\C#\TínhDTB\obj\Debug\TínhDTB.csproj.AssemblyReference.cache
+D:\C#\TínhDTB\obj\Debug\TínhDTB.csproj.SuggestedBindingRedirects.cache
+D:\C#\TínhDTB\obj\Debug\TínhDTB.csproj.CoreCompileInputs.cache
+D:\C#\TínhDTB\bin\Debug\TínhDTB.exe.config
+D:\C#\TínhDTB\bin\Debug\TínhDTB.exe
+D:\C#\TínhDTB\bin\Debug\TínhDTB.pdb
+D:\C#\TínhDTB\obj\Debug\TínhDTB.exe
+D:\C#\TínhDTB\obj\Debug\TínhDTB.pdb

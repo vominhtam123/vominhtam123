@@ -1,0 +1,8 @@
+D:\C#\Ép Kiểu\bin\Debug\Ép Kiểu.exe.config
+D:\C#\Ép Kiểu\bin\Debug\Ép Kiểu.exe
+D:\C#\Ép Kiểu\bin\Debug\Ép Kiểu.pdb
+D:\C#\Ép Kiểu\obj\Debug\Ép Kiểu.csproj.AssemblyReference.cache
+D:\C#\Ép Kiểu\obj\Debug\Ép Kiểu.csproj.SuggestedBindingRedirects.cache
+D:\C#\Ép Kiểu\obj\Debug\Ép Kiểu.csproj.CoreCompileInputs.cache
+D:\C#\Ép Kiểu\obj\Debug\Ép Kiểu.exe
+D:\C#\Ép Kiểu\obj\Debug\Ép Kiểu.pdb

@@ -1,0 +1,8 @@
+D:\C#\Bài7Câuđiềukiệnifelse\bin\Debug\Bài7Câuđiềukiệnifelse.exe.config
+D:\C#\Bài7Câuđiềukiệnifelse\bin\Debug\Bài7Câuđiềukiệnifelse.exe
+D:\C#\Bài7Câuđiềukiệnifelse\bin\Debug\Bài7Câuđiềukiệnifelse.pdb
+D:\C#\Bài7Câuđiềukiệnifelse\obj\Debug\Bài7Câuđiềukiệnifelse.csproj.AssemblyReference.cache
+D:\C#\Bài7Câuđiềukiệnifelse\obj\Debug\Bài7Câuđiềukiệnifelse.csproj.SuggestedBindingRedirects.cache
+D:\C#\Bài7Câuđiềukiệnifelse\obj\Debug\Bài7Câuđiềukiệnifelse.csproj.CoreCompileInputs.cache
+D:\C#\Bài7Câuđiềukiệnifelse\obj\Debug\Bài7Câuđiềukiệnifelse.exe
+D:\C#\Bài7Câuđiềukiệnifelse\obj\Debug\Bài7Câuđiềukiệnifelse.pdb

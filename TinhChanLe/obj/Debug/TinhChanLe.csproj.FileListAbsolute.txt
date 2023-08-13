@@ -1,0 +1,8 @@
+D:\C#\TinhChanLe\bin\Debug\TinhChanLe.exe.config
+D:\C#\TinhChanLe\bin\Debug\TinhChanLe.exe
+D:\C#\TinhChanLe\bin\Debug\TinhChanLe.pdb
+D:\C#\TinhChanLe\obj\Debug\TinhChanLe.csproj.AssemblyReference.cache
+D:\C#\TinhChanLe\obj\Debug\TinhChanLe.csproj.SuggestedBindingRedirects.cache
+D:\C#\TinhChanLe\obj\Debug\TinhChanLe.csproj.CoreCompileInputs.cache
+D:\C#\TinhChanLe\obj\Debug\TinhChanLe.exe
+D:\C#\TinhChanLe\obj\Debug\TinhChanLe.pdb

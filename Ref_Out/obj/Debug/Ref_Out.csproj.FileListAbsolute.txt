@@ -1,0 +1,8 @@
+D:\C#\Ref_Out\bin\Debug\Ref_Out.exe.config
+D:\C#\Ref_Out\bin\Debug\Ref_Out.exe
+D:\C#\Ref_Out\bin\Debug\Ref_Out.pdb
+D:\C#\Ref_Out\obj\Debug\Ref_Out.csproj.AssemblyReference.cache
+D:\C#\Ref_Out\obj\Debug\Ref_Out.csproj.SuggestedBindingRedirects.cache
+D:\C#\Ref_Out\obj\Debug\Ref_Out.csproj.CoreCompileInputs.cache
+D:\C#\Ref_Out\obj\Debug\Ref_Out.exe
+D:\C#\Ref_Out\obj\Debug\Ref_Out.pdb

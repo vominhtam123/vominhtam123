@@ -1,0 +1,8 @@
+D:\C#\Nhapxuatdulieucoban\bin\Debug\Nhapxuatdulieucoban.exe.config
+D:\C#\Nhapxuatdulieucoban\bin\Debug\Nhapxuatdulieucoban.exe
+D:\C#\Nhapxuatdulieucoban\bin\Debug\Nhapxuatdulieucoban.pdb
+D:\C#\Nhapxuatdulieucoban\obj\Debug\Nhapxuatdulieucoban.csproj.AssemblyReference.cache
+D:\C#\Nhapxuatdulieucoban\obj\Debug\Nhapxuatdulieucoban.csproj.SuggestedBindingRedirects.cache
+D:\C#\Nhapxuatdulieucoban\obj\Debug\Nhapxuatdulieucoban.csproj.CoreCompileInputs.cache
+D:\C#\Nhapxuatdulieucoban\obj\Debug\Nhapxuatdulieucoban.exe
+D:\C#\Nhapxuatdulieucoban\obj\Debug\Nhapxuatdulieucoban.pdb

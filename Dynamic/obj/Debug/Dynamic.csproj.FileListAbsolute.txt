@@ -1,0 +1,8 @@
+D:\C#\Dynamic\bin\Debug\Dynamic.exe.config
+D:\C#\Dynamic\bin\Debug\Dynamic.exe
+D:\C#\Dynamic\bin\Debug\Dynamic.pdb
+D:\C#\Dynamic\obj\Debug\Dynamic.csproj.AssemblyReference.cache
+D:\C#\Dynamic\obj\Debug\Dynamic.csproj.SuggestedBindingRedirects.cache
+D:\C#\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+D:\C#\Dynamic\obj\Debug\Dynamic.exe
+D:\C#\Dynamic\obj\Debug\Dynamic.pdb

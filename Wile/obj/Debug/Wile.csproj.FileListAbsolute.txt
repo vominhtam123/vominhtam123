@@ -1,0 +1,8 @@
+D:\C#\Wile\bin\Debug\Wile.exe.config
+D:\C#\Wile\bin\Debug\Wile.exe
+D:\C#\Wile\bin\Debug\Wile.pdb
+D:\C#\Wile\obj\Debug\Wile.csproj.AssemblyReference.cache
+D:\C#\Wile\obj\Debug\Wile.csproj.SuggestedBindingRedirects.cache
+D:\C#\Wile\obj\Debug\Wile.csproj.CoreCompileInputs.cache
+D:\C#\Wile\obj\Debug\Wile.exe
+D:\C#\Wile\obj\Debug\Wile.pdb

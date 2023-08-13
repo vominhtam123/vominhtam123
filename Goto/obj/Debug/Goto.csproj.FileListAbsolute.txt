@@ -1,0 +1,8 @@
+D:\C#\Goto\bin\Debug\Goto.exe.config
+D:\C#\Goto\bin\Debug\Goto.exe
+D:\C#\Goto\bin\Debug\Goto.pdb
+D:\C#\Goto\obj\Debug\Goto.csproj.AssemblyReference.cache
+D:\C#\Goto\obj\Debug\Goto.csproj.SuggestedBindingRedirects.cache
+D:\C#\Goto\obj\Debug\Goto.csproj.CoreCompileInputs.cache
+D:\C#\Goto\obj\Debug\Goto.exe
+D:\C#\Goto\obj\Debug\Goto.pdb

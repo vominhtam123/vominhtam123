@@ -1,0 +1,8 @@
+D:\C#\Bài4Biến\bin\Debug\Bài4Biến.exe.config
+D:\C#\Bài4Biến\bin\Debug\Bài4Biến.exe
+D:\C#\Bài4Biến\bin\Debug\Bài4Biến.pdb
+D:\C#\Bài4Biến\obj\Debug\Bài4Biến.csproj.AssemblyReference.cache
+D:\C#\Bài4Biến\obj\Debug\Bài4Biến.csproj.SuggestedBindingRedirects.cache
+D:\C#\Bài4Biến\obj\Debug\Bài4Biến.csproj.CoreCompileInputs.cache
+D:\C#\Bài4Biến\obj\Debug\Bài4Biến.exe
+D:\C#\Bài4Biến\obj\Debug\Bài4Biến.pdb
